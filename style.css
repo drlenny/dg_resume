@@ -1,0 +1,58 @@
+body{
+    background-color: aquamarine;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+    width: 400px;
+    height: 50px;
+    border-style: solid;
+    border-color: darkmagenta;
+}
+label {
+    display: block;
+}
+
+input {
+    display: block;
+    margin-bottom: 15px;
+}
+.font1 {
+    font-size: 12px;
+}
+.padding1{
+    padding: 10px;
+}
+.margin1{
+    margin: 20px;
+}
+h1 {
+    text-align: center;
+}
+
+
+h4{
+    display: inline-block;
+}
+.text-color-red {
+    color: red;
+}
+
+.UL-header {
+    font-variant: small-caps;
+}
+
+.one {
+    display: flex;
+    height: 200px;
+    background: pink;
+    float: left;
+}
+
+.two {
+    display: flex;
+    height: 200px;
+    background: cornflowerblue;
+    float: right;
+}
